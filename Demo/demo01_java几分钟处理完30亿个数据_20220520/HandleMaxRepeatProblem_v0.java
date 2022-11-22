@@ -16,7 +16,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * @program: 通过单线程处理
  * @description:
- * @author: qiaoqiao
+ * @author: qq
  * @create: 2022-05-20 13:16
  * 单线程处理
  **/

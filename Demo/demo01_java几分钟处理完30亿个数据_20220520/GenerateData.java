@@ -10,7 +10,7 @@ import java.util.Random;
 /**
  * @program: 产生10G的 1-1000的数据在D盘
  * @description:
- * @author: qiaoqiao
+ * @author: qq
  * @create: 2022-05-20 12:59
  **/
 

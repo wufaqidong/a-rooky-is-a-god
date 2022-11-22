@@ -1,7 +1,7 @@
 /**
  * @program: a-rookie-is-a-god
  * @description: 移除链表元素
- * @author: qiaoqiao
+ * @author: qq
  * @create: 2022-05-26 22:12
  **/
 

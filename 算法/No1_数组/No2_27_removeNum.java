@@ -1,7 +1,7 @@
 /**
  * @program: a-rookie-is-a-god
  * @description: 移除元素
- * @author: qiaoqiao
+ * @author: qq
  * @create: 2022-02-02 14:10
  **/
 

@@ -1,7 +1,7 @@
 /**
  * @program: a-rookie-is-a-god
  * @description: 二分法查找
- * @author: qiaoqiao
+ * @author: qq
  * @create: 2022-02-02 14:10
  **/
 

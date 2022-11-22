@@ -1,7 +1,7 @@
 /**
  * @program: a-rookie-is-a-god
  * @description: 长度最小的子数组
- * @author: qiaoqiao
+ * @author: qq
  * @create: 2022-02-02 14:10
  **/
 

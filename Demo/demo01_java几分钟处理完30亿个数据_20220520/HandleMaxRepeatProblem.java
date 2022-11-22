@@ -27,7 +27,7 @@ import cn.hutool.core.collection.CollectionUtil;
 /**
  * @program: 分治法
  * @description:
- * @author: qiaoqiao
+ * @author: qq
  * @create: 2022-05-20 13:30
  **/
 

@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * @program: view
  * @description: minio核心配置类
- * @author: qiaoqiao
+ * @author: qq
  * @create: 2022-08-27 22:47
  **/
 @Configuration

@@ -3,7 +3,7 @@ package demo04_ReplaceIfElse;
 /**
  * @program: a-rookie-is-a-god
  * @description:
- * @author: qiaoqiao
+ * @author: qq
  * @create: 2022-07-06 19:05
  **/
 

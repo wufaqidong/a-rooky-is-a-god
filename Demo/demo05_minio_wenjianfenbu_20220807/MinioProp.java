@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 /**
  * @program: view
  * @description: minio实体
- * @author: xiebinbin
+ * @author: qq
  * @create: 2022-08-27 22:45
  **/
 
